@@ -1,2 +1,2 @@
 # skill-academy.demo
-author - s.triloke
+author - <br>s.triloke
